@@ -1,0 +1,3 @@
+mne
+git+https://github.com/forrestbao/pyeeg.git
+hurst
